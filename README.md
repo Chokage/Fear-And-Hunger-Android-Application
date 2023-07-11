@@ -1,5 +1,7 @@
 # Fear-And-Hunger-Android-Application
-An Android application version for Fear and Hunger that runs without an emulator. Essentially Fear and Hunger for Mobile.
+An Android application version for Fear and Hunger that runs without an emulator. 
+
+Essentially Fear and Hunger for Mobile.
 ![alt text](https://files.catbox.moe/7ghcwg.jpg)
 **Description:**
 
