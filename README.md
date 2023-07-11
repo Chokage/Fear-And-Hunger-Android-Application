@@ -41,4 +41,5 @@ _____________
 
 ```diff 
 -Please note that the best method to experience the game is on PC, this is a simple, clunky emulation.
--I cannot condone piracy of Indie titles, hence **send your support to the creator by purchasing the game on Steam.**
+-I cannot condone piracy of Indie titles:
+@@ Hence send your support to the creator by purchasing the game on Steam. @@
