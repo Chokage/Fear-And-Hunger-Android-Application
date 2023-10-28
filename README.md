@@ -14,9 +14,8 @@ Essentially Fear and Hunger for Mobile.
  
 
 
- 
 
-Simply, a reworked version of the Russian APK release replaced with the English version. 
+The game files and settings have been reworked to run on Android.
 
 Currently, the game supports Version 1.4.1 
  <br />
